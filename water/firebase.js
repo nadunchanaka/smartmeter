@@ -1,13 +1,13 @@
 (function() {
   const config = {
-    apiKey: "AIzaSyCZQqG7LNguVbTicz3_a12vm1y4qUztDK8",
-    authDomain: "smart-metering-system-998bc.firebaseapp.com",
-    databaseURL: "https://smart-metering-system-998bc-default-rtdb.firebaseio.com",
-    projectId: "smart-metering-system-998bc",
-    storageBucket: "smart-metering-system-998bc.appspot.com",
-    messagingSenderId: "549686401339",
-    appId: "1:549686401339:web:b786883cca91b0bb57bf1e",
-    measurementId: "G-MMW1F9EZV5"
+      apiKey: "AIzaSyCZQqG7LNguVbTicz3_a12vm1y4qUztDK8",
+      authDomain: "smart-metering-system-998bc.firebaseapp.com",
+      databaseURL: "https://smart-metering-system-998bc-default-rtdb.firebaseio.com",
+      projectId: "smart-metering-system-998bc",
+      storageBucket: "smart-metering-system-998bc.appspot.com",
+      messagingSenderId: "549686401339",
+      appId: "1:549686401339:web:b786883cca91b0bb57bf1e",
+      measurementId: "G-MMW1F9EZV5"
   };
 
   firebase.initializeApp(config);
